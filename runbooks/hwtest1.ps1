@@ -1,0 +1,1 @@
+write-output $("ComputerName:{0}" -f $ENV:COMPUTERNAME)
